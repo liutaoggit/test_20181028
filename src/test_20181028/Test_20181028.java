@@ -32,7 +32,6 @@ public class Test_20181028 {
         list.add("BBB");
 //        Collections.sort(list, String.CASE_INSENSITIVE_ORDER);
         list.sort(String.CASE_INSENSITIVE_ORDER);
-
         System.out.println(list);
     }
 }
